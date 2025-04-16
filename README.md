@@ -50,6 +50,7 @@ flowchart TD
 
 ## 📋 Usage
 
+0. **Add your PDF**: place your PDF file (e.g., `document.pdf`) into the `data/` folder. The pipeline will read this file and automatically create a vector database named `multi_modal_rag`.
 1. **Install dependencies**:  
    ```bash
    pip install -r requirements.txt
@@ -61,7 +62,7 @@ flowchart TD
    ```
 3. **Run the pipeline**:  
    ```bash
-  jupyter notebook demo.ipynb
+   jupyter notebook demo.ipynb
    ```
 4. **Query**:  
    Use the provided RAG client or notebook to ask questions over your PDF corpus.
@@ -71,4 +72,3 @@ flowchart TD
 ## 🔖 License
 
 MIT © Your Name
-
