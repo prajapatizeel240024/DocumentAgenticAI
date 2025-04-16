@@ -61,7 +61,7 @@ flowchart TD
    ```
 3. **Run the pipeline**:  
    ```bash
-   python run_rag_pipeline.py --pdf path/to/document.pdf
+  jupyter notebook demo.ipynb
    ```
 4. **Query**:  
    Use the provided RAG client or notebook to ask questions over your PDF corpus.
