@@ -1,0 +1,19 @@
+# Environment & PDF parsing
+python-dotenv
+jpype1
+tabula-py
+PyMuPDF
+
+# Data processing & utility
+pandas
+numpy
+tqdm
+boto3
+
+# LangChain & RAG
+langchain-core
+langchain-groq
+langchain-openai
+langchain-chroma
+chromadb
+openai
