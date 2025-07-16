@@ -71,4 +71,4 @@ flowchart TD
 
 ## 🔖 License
 
-MIT © Your Name
+MIT © Zeel Prajapati
